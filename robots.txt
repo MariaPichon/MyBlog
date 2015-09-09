@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mariapichon.github.io/MyBlog/sitemap.xml 
