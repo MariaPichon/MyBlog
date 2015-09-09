@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://mariapichon.github.io/MyBlog
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: My Blog
+subtitle: a journey through my YWeb Experience
+author: Maria Isabel Pichon Cadena
 simple_search: https://www.google.com/search
-description:
+description: A fashionista that aspires to become a computer scientist and has just completed a web development program. 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: MariaPichon
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
