@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Loops"
+date: 2015-06-29 10:19:39 -0500
+comments: true
+categories: 
+Author: Maria P.
+---
+This week I learned a lot!I have progressed a lot in worksheet 2 but there's still a couple thing that i don't completely understand like loops. I also had lots of fun doing our first workshop. Everyone took it seriously and participated. I learned what a scrum board does and how it works. Overall week 3 was good.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Ruby"
+date: 2015-08-24 17:39:37 -0500
+comments: true
+categories: 
+---
+This week was very good. We started working on our group projects! It has been really interesting ! <!--more--> I'm looking forward to what the final outcome is going to look like. I was struggling with my part of the project but I looked at examples and was finally able to do part of my job! For me it was hard because I feel like I don't have much imagination and I also didn't want to come up with something that seemed stupid so looking at the examples really helped me!!  Also Akbar moved to New York this wednesday so it's going to be interesting to see how this group project works out!
