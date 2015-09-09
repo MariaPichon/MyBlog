@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Blog]]></title>
   <link href="http://mariapichon.github.io/MyBlog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/MyBlog/"/>
-  <updated>2015-09-09T16:26:25-05:00</updated>
+  <updated>2015-09-09T16:32:52-05:00</updated>
   <id>http://mariapichon.github.io/MyBlog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Maria Isabel Pichon Cadena]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
