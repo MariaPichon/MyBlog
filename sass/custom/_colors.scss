@@ -4,9 +4,9 @@
 
 $header-bg: #FE99CE;
 $header-img: "http://i521.photobucket.com/albums/w335/Maria_Pichon/pink%20clouds_zps7djxglkj.jpg";
-//$subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
-//$nav-bg-front: image-url('noise.png');
+$subtitle-color: lighten($header-bg, 58);
+$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
+$nav-bg-front: image-url('noise.png');
 //$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
 //$sidebar-bg: desaturate(#eceff5, 8);
 //$sidebar-link-color: saturate(#526f9a, 10);
